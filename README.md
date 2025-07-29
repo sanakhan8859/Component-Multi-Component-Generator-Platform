@@ -3,6 +3,8 @@
 A full-stack AI-powered platform that lets users chat with an LLM to generate, preview, and export React components. Authenticated users can save their history and code for later use.
 
 🌐 [Live Demo](https://component-multi-component-generator-tawny.vercel.app)
+    
+    Link: https://component-multi-component-generator-tawny.vercel.app/
 
 ---
 
